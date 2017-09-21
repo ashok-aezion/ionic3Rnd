@@ -10,6 +10,9 @@ export class HomePage {
     
 
   constructor(public navCtrl: NavController) {
+
+  	console.log("test");
+
 console.log("update page");
   }
   
